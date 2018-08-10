@@ -1,0 +1,42 @@
+// Script: 2camada.script
+// Autores:	Mariela Andrade
+// Data: 03/06/2018
+// Propósito: Testa a resolução da 3 camada
+
+==Caso cubo vazio
+=resolve 0
+=recuperar
+
+== Resolve Cubo face branca cima caso frente esquerda baixo e quina d1, f7, l9
+=resolveCaso1 0
+
+== Resolve Cubo face branca cima caso esquerda traseira baixo e quina d7, f9, l7
+=resolveCaso2 0
+
+== Resolve Cubo face branca cima caso direita frente baixo e quina d7, f9, l7
+=resolveCaso3 0
+
+== Resolve Cubo face branca cima e quina d9, b7, r9
+=resolveCaso4 0
+
+== Resolve Cubo face branca cima caso frente esquerda baixo e quina d3, r7, f9
+=resolveCaso8 0
+
+== Resolve Cubo face branca cima caso frente esquerda + traseira direita
+=resolveCaso10 0
+
+==Resolve Cubo face branca baixo caso direita frente e quina u3, f3, b1
+=resolveCaso5 0
+
+== Resolve Cubo face branca baixo caso traseira direita e quina posicionada
+=resolveCaso6 0
+
+== Resolve Cubo face branca baixo caso traseira esquerda e quina u7, l3, f1
+=resolveCaso7 0
+
+== Resolve Cubo face branca baixo caso direita frente + frente esquerda e quina d3 r7 f9
+=resolveCaso9 0
+
+
+
+

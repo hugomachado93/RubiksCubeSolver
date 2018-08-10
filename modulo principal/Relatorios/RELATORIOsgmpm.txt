@@ -1,0 +1,31 @@
+======================================================================================================================================================
+Relatório Programação Modular - Terceira Entrega - 30/05/2018
+Aluno: Sergio Gustavo Mendonça Pyrrho Moreira - Matrícula: 1621240
+Colegas de Equipe: Hugo Machado // Daniel Luca
+Professor: Flavio Heleno Bevilacqua e Silva - Turma: 3WB
+------------------------------------------------------------------------------------------------------------------------------------------------------
+	Abaixo segue o relatório referente as atividades realizadas por mim, Sergio Gustavo Mendonça Pyrrho Moreira, com certo detalhamento.
+	Todas as informações fornecidas neste relatório se referem a atividades em prol do trabalho e apenas do trabalho.
+
+---TOTAL DE HORAS CONTABILIZADAS: 10 HORAS
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+DATA		HORAS TRABALHADAS		TIPO DE TAREFA			DESCRIÇÃO
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+19/05/18	2 HORAS				ANALISE DA TAREFA		Elaboração e modelagem da estrutura de dados a ser usada pelo projeto.
+
+21/05/18	1 HORA				ESTUDO ASSERTIVAS		Estudar e entender o conceito e utilização de Assertivas, aplicado no projeto.
+
+22/05/18	1 HORAS				ELABORAÇÃO ASSERTIVAS		Utilizar modelos e esquemas para elaboração das Assertivas Estruturais do projeto.
+
+24/05/18	1 HORA				PLANEJAMENTO			Planejamento de otimização do conteúdo das Assertivas baseado no Planejamento do atual módulo.
+
+26/05/18	1 HORAS				AVALIAÇÃO			Considerações em razão dos trabalhos executados em cima do módulo atual.
+
+27/05/18	1 HORA				REVISÃO				Revisão do documento das Assertivas, bem como revisão acompanhamento do conteúdo dos módulos.
+
+28/05/18	2 HORAS				DOCUMENTAÇÃO E FORMATAÇÃO	Formatação e ajustes da documentação disponível das Assertivas Estruturais, para melhor compreensão.
+
+03/06/18	1 HORA				FINALIZAÇÃO			Revisão do projeto, bem como a realização do relatório.

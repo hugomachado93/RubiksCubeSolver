@@ -1,0 +1,14 @@
+?Autor: Daniel Luca Alves da Silva
+
+Data 	    	Horas	    Tipo de Tarefa			Descrição
+
+    
+09/05/18	2 horas		Planejamento	Contato com os demais grupos sobre o formato do trabalho.
+    
+14/05/18	3 horas		Planejamento	Retificação das informações.
+    
+24/05/18	1 horas		Correção	Junção dos módulos e início de correções neles.
+    
+28/06/18	2 horas		Correção	Continuação da correção nos módulos usados.
+    
+02/06/18	8 horas		Implementação	Correções finais e geração do executável.

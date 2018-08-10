@@ -1,0 +1,31 @@
+﻿==================================================================================================================================================================
+Relatório Programação Modular - Terceira Entrega - 04/06/2018
+Aluno: Felipe Metson - Matrícula: 1520302
+Colegas de Equipe: Michel Anísio Almeida, Ana Carolina e Mariela Mendonca de Andrade
+Professor: Flavio Heleno Bevilacqua e Silva - Turma: 3WB
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Todas as informações fornecidas neste relatório se referem a atividades em prol do trabalho e apenas do trabalho.
+
+---TOTAL DE HORAS CONTABILIZADAS: 21 HORAS
+
+Data	       Horas Trabalhadas,	 Tipo Tarefa,	 		         Descrição da Tarefa Realizada
+
+
+15/05/18           2			Assistência outros grupos	       Ajudar o grupo 2 a compreender o módulo CUBO 1
+
+20/05/18           5                 	Assistência outros grupos               Ajudar o grupo 3 a compreender o módulo CUBO 1
+
+30/05/18           4                  	Correção módulo CUBO               	Ajustes modulares no módulo CUBO 1
+30/05/18           2                	Correção do algoritmo                    Correção de funções
+
+03/06/18           8                	Correção do algoritmo                    Correção de funções
+
+
+
+
+
+
+
+
+		
+

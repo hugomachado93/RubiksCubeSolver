@@ -1,0 +1,56 @@
+
+Autores: 
+ AC - Ana Carolina Da Hora
+	
+ FM - Felipe Alexandre Metson
+	
+ MA - Michel AnÌsio Alemida
+	 
+ BHL - Bernardo Horner Lopes  
+	
+ TS - Tiago Simıes	
+	
+ MMA - Mariela Mendonca de Andrade
+
+ 
+Data:   02/06/2018
+
+
+
+
+Para executar o programa:
+
+
+
+2- Clique no execute.bat duas vezes.
+
+
+3- Leie a saida com relatorio de erro no arquivo saida.txt .  
+
+
+
+EstruturaçÁ„o de diretÛrios:
+
+
+
+EXECUTAVEL - ContÈm o arquivo compilado
+
+
+
+FONTES - ContÈm o .h e .c para compilaçÁ„o do programa.
+
+
+
+SCRIPTS - ContÈm o arquivo de testes feito pelo grupo
+
+
+
+
+
+
+
+
+
+
+		
+

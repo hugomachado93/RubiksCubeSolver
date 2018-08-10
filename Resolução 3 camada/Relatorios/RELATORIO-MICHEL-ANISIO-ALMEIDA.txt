@@ -1,0 +1,22 @@
+==================================================================================================================================================================
+Relatório Programação Modular - Terceira Entrega - 04/06/2018
+Aluno: Michel Anísio Almeida - Matrícula: 1521767
+Colegas de Equipe: Felipe Metson, Ana Carolina e Mariela Mendonca de Andrade
+Professor: Flavio Heleno Bevilacqua e Silva - Turma: 3WB
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Todas as informações fornecidas neste relatório se referem a atividades em prol do trabalho e apenas do trabalho.
+
+---TOTAL DE HORAS CONTABILIZADAS: 6 HORAS
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+DATA		HORAS TRABALHADAS		TIPO TAREFA					        DESCRIÇÃO DA TAREFA REALIZADA
+__________________________________________________________________________________________________________________________________________________________________
+
+25/05           2 HORAS                         ASSISTÊNCIA A OUTROS GRUPOS   				ASSISTÊNCIAS AO GRUPO 3 SOBRE O MÓDULO CUBO DO CUBO 1
+
+28/05		2 HORAS				ESTUDO DE ALGORÍTIMOS					ESTUDO DE MOVIMENTOS BASIADO NA DOCUMENTAÇÃO DO CUBO 2
+
+30/05		1 HORA				CODIFICAÇÃO						PRODUÇÃO DO TESTE DA TERCEIRA CAMADA DO CUBO 2
+
+02/06           1 HORA 	                        CODIFICAÇÃO						ALTERANDO O .C E O .H PARA COICIDIREM COM O TESTE

@@ -1,0 +1,12 @@
+Autor: Hugo de Barros Pimentel Dutra Machado
+
+Data			Horas Trabalhadas			Tipo da Tarefa			Descrição da tarefa realizada
+15/05				3 HRS 				Planejar			Planejar como fazer o modulo principal
+
+20/05				3 HRS				Testar				Testando o codigo da resolução da 1 e 2 camada
+
+25/05				2 HRS				Projetar			Projetando o modulo principal
+
+30/05				3 HRS				Criar				Criar as Argumentações de Corretude
+
+03/06				5 HRS				Testar				Testar todas as resoluções da 1 2 e 3 camadas no modulo principal

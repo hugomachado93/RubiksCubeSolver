@@ -1,0 +1,16 @@
+﻿Data	       Horas Trabalhadas,	 Tipo Tarefa,	 		         Descrição da Tarefa Realizada
+
+
+23/05/18           3                	Estudar argumentação
+
+24/05/18           4                Escolher funções e criar a argumentação de repetição 
+
+25/05/18           4             Criar argumentação de seleção
+
+30/05/18           2           Alterar argumentações 
+
+01/06/18            6                 refazer argumentacao função BuscaPeca
+03/06/2018          1 relatorio 
+
+
+
